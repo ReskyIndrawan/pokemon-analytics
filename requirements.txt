@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+SQLAlchemy
+psycopg2-binary
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
